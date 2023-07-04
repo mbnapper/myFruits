@@ -17,7 +17,7 @@
                BlueprintIdentifier = "18D775BC22AD944300AE281E"
                BuildableName = "Fruits.app"
                BlueprintName = "Fruits"
-               ReferencedContainer = "container:Fruits.xcodeproj">
+               ReferencedContainer = "container:myFruits.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -35,7 +35,7 @@
                BlueprintIdentifier = "BE60341B24BE514C004D2381"
                BuildableName = "FruitsUITests.xctest"
                BlueprintName = "FruitsUITests"
-               ReferencedContainer = "container:Fruits.xcodeproj">
+               ReferencedContainer = "container:myFruits.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -45,7 +45,7 @@
                BlueprintIdentifier = "BE60342924BF58B3004D2381"
                BuildableName = "FruitsTests.xctest"
                BlueprintName = "FruitsTests"
-               ReferencedContainer = "container:Fruits.xcodeproj">
+               ReferencedContainer = "container:myFruits.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -67,7 +67,7 @@
             BlueprintIdentifier = "18D775BC22AD944300AE281E"
             BuildableName = "Fruits.app"
             BlueprintName = "Fruits"
-            ReferencedContainer = "container:Fruits.xcodeproj">
+            ReferencedContainer = "container:myFruits.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -84,7 +84,7 @@
             BlueprintIdentifier = "18D775BC22AD944300AE281E"
             BuildableName = "Fruits.app"
             BlueprintName = "Fruits"
-            ReferencedContainer = "container:Fruits.xcodeproj">
+            ReferencedContainer = "container:myFruits.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

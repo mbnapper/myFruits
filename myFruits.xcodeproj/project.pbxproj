@@ -260,7 +260,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 18D775B822AD944300AE281E /* Build configuration list for PBXProject "Fruits" */;
+			buildConfigurationList = 18D775B822AD944300AE281E /* Build configuration list for PBXProject "myFruits" */;
 			compatibilityVersion = "Xcode 11.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -636,7 +636,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		18D775B822AD944300AE281E /* Build configuration list for PBXProject "Fruits" */ = {
+		18D775B822AD944300AE281E /* Build configuration list for PBXProject "myFruits" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				18D775CF22AD944400AE281E /* Debug */,
